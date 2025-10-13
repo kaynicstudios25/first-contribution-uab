@@ -12,8 +12,8 @@ Note: This project was originally created by Michael Gathara for ACM @ UAB, you 
 -->
 
 - Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
-- Abigail Stewart - Senior - Computer Science - Mathematics & Information Systems [GitHub](https://github.com/abbie-m)
 - Do not edit below this line.
+
 
 
 
