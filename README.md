@@ -1,7 +1,9 @@
 ![Discord Shield](https://discord.com/api/guilds/672280055128260617/widget.png?style=shield)
 # WIT @ UAB First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. This is a WIT @ UAB repository, check us out [here](https://www.instagram.com/uab_womenintech/). This project is a fork of the one created by Michael Gatahra, you can find his work [here](https://github.com/Michaelgathara).
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. This is a WIT @ UAB repository, check us out [here](https://www.instagram.com/uab_womenintech/). 
+
+This project is a fork of the guide created by Michael Gatahra for ACM @ UAB, you can find his work [here](https://github.com/Michaelgathara).
 
 ## Prerequisites
 1. A GitHub account, make one [here](https://github.com)
