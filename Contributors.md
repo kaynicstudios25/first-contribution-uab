@@ -11,7 +11,7 @@ Also notice how there is a little dash at the beginning
 Note: This project was originally created by Michael Gathara for ACM @ UAB, you can find his work [here](michaelgathara.com).
 -->
 
-- Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
+- Kaylyn "Nic" Groom - Graduate - Certificate - N/A - [GitHub](https://github.com/kaynicstudios25)
 - Do not edit below this line.
 
 
